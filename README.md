@@ -1,9 +1,11 @@
+### <p align="center">Bot Saran (Beta Version ✨) </p>
+-----
 
-# Bot Saran (Beta Version ✨)
+<p align="center">
+<img src="https://github.com/GarudaID/bot-saran-suggestions-discord/blob/main/dev.PNG", width="500", height="500">
+</p><br>
 
-<p align="center"
-<img src="https://github.com/GarudaID/bot-saran-suggestions-discord/blob/main/dev.PNG"></a>
-</p>
+-----
 
 ## how to install ❓
 - `Fork` and `Star` this project
