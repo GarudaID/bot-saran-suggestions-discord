@@ -1,0 +1,23 @@
+{
+  "name": "bot-saran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Near Hoshinova",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.6.1",
+    "chalk": "4",
+    "discord-modals": "1",
+    "discord.js": "13",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "ora": "5",
+    "quick.db": "^9.0.5"
+  }
+}
