@@ -14,3 +14,11 @@
 - after that, you open file `TokenConfig` / paste your `token` bot
 - DONE
 <hr>
+
+### _Modify - TokenConfig/token.txt_
+
+```javascript
+{
+ put your token here
+}
+```
